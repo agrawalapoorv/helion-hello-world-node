@@ -4,6 +4,7 @@ New users should check out the resources available at [HP Helion Docs](http://do
 The site includes more detail and has instructions on how to create an HP
 Helion Development Platform Application Lifecycle Services Cluster.
 
+
 To create a Cloud Foundry app in Node.js, the only mandatory files are:
 * Your main .js file (e.g. Server.js)
 * manifest.yml
